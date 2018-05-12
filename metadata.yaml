@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33162
 description: Describes the attack on the fortified village of Gommecourt which began
   the Battle of the Somme.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28145#Attack--An-Infantry-Subaltern-s-Impression-of-July-1st-1916
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-02-20'
 gutenberg_type: Text
